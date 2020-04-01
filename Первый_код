@@ -1,0 +1,2 @@
+var T = new Date() ;
+console.log(T)
